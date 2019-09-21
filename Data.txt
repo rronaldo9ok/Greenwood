@@ -1,0 +1,7 @@
+DATA
+
+1. The demographics data comes from Wellbeing Toronto - Demographics. 
+   The file includes the 2006 and 2011 Census data, which could be from the following Link:
+   https://open.toronto.ca/dataset/wellbeing-toronto-demographics/
+	
+2. The restaurants information will be from Foursqaura API.
